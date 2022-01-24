@@ -6,8 +6,7 @@ We have collected 10000+ horse-racing records in the past three years with 98 ra
 ## Overview
 We aim to build a model that gives an optimized gambling strategy for local horse races, based on the predicted winning horse, the accuracy of the prediction and the win odds. Our model should rely on reasonable features or being interpretable and it outperforms the prediction made by general publics. We have constructed a database of the past three years records of the local horse racingr esult from the Hong Kong Jockey Club website. We have built a Random Forest model with features selection considering the variable importance and the interaction effect between the features and hyperparameter tuning.
 
-There are two jupyter notebook covers the (1)[Web scrapt and Data Analysis](https://github.com/Christy-Lo/Horse-Racing-Prediction---Optimized-Gambling-Strategy/blob/main/Web%20scrap%20and%20EDA.ipynb), (2) [Features selection and model construction](https://github.com/Christy-Lo/Horse-Racing-Prediction---Optimized-Gambling-Strategy/blob/main/Feature%20selection%20and%20model%20comparison.ipynb). 
-You might refer to the report for the details of the project.
+There are two jupyter notebook covers the (1)[Web scrapt and Data Analysis](https://github.com/Christy-Lo/Horse-Racing-Prediction---Optimized-Gambling-Strategy/blob/main/Web%20scrap%20and%20EDA.ipynb), (2) [Features selection and model construction](https://github.com/Christy-Lo/Horse-Racing-Prediction---Optimized-Gambling-Strategy/blob/main/Feature%20selection%20and%20model%20comparison.ipynb).
 
 ## Experiement
 There are many betting game for a horse race and we select two of them.
