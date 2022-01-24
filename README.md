@@ -47,4 +47,4 @@ Net reward | 41084
 Our database is constructed by web scraping and the history of some variables are unavaliable in HKJC website. For example, only current season stakes are shown and this already included the effect of winning, which means we are using the future data to predict the past result. This may mislead the model significantly. We are working on creating web crawler to collect the data from time to time to avoid the bias.
 
 ## Acknowledgement
-We do not own any of the training or testing data.
+We do not own any of the training or testing data. We have also refer to different tutorial throughout the project and we do not own the code. The links are stated when their codes are adopted.
