@@ -10,8 +10,8 @@ There are two notebooks cover the (1)[Web script and Data Analysis](https://gith
 
 ## Experiments
 There are many betting games for a horse race and we select two of them.
-- Top 1: predict the wining horse in a race
-- Top 3: predict one of the winning horse in a race
+- Top 1(Win): predict the winning horse in a race
+- Top 3(Place): predict 1st, 2nd or 3rd winning horse in a race
 
 In our dataset, each entry of data represents one horse in a race. Some of the variables are win odds, season stakes, rating and draw. Our model gives prediction on whether the horse will be top1 or top3 in the game
 
